@@ -11,7 +11,7 @@ Open `index.html` in a browser, or serve this folder with any static web server.
 - Edit the project cards in `index.html`. Duplicate the `.next-card` or `.project-card` markup to add work, and update the title, description, tags, and live/source links.
 - Replace the LinkedIn placeholder URL in the footer with Taiwo's exact profile URL.
 - Update the email, GitHub, or other profile links in `index.html` if they change.
-- The hero monogram uses initials only. If Taiwo wants a photo, replace the `.hero-art` monogram in `index.html` with an appropriately sized, optimized image and useful alt text.
+- The hero portrait is stored as `avatar.jpg`; replace it with an optimized image and update its alt text in `index.html` if the photo changes.
 - Adjust colors, typography, spacing, and breakpoints in `styles.css`. Navigation and reveal effects are in `script.js`.
 
 ## GitHub Pages
